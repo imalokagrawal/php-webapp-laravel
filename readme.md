@@ -10,7 +10,7 @@ This is a sample PHP Laravel application template that you can use to deploy on 
 
 ## License:
 
-See [License](#)
+See [LICENSE](LICENSE).
 
 ## Contributing
 
